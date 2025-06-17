@@ -151,3 +151,4 @@ Used to make a suggestion, ask for someone’s opinion, or express hesitation.
 - The structure **-고 싶다** is commonly used in daily conversation to express personal wishes.
 
 ---
+[➡️ Go to Practice for Lesson ](lesson7_practice.md)

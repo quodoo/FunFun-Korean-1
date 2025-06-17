@@ -120,3 +120,4 @@
 - When reading phone numbers, the hyphen (–) is read as “에” (e.g., 010-245-6012 → 공일공에 이사오에 육공일이).
 
 ---
+[➡️ Go to Practice for Lesson ](lesson11_practice.md)

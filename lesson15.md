@@ -143,3 +143,5 @@
 - Negative commands like **-지 마세요** are used in everyday speech to politely ask someone not to do something.
 - Time sequence expressions like **-은/ㄴ 후에** and **-기 전에** are essential for describing routines and instructions.
 
+---
+[➡️ Go to Practice for Lesson ](lesson15_practice.md)

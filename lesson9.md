@@ -157,3 +157,4 @@ Used to express trying or attempting to do something.
 - Weekend activities often include going to **공원**, **해변**, or **박물관** for relaxation.
 
 ---
+[➡️ Go to Practice for Lesson ](lesson9_practice.md)

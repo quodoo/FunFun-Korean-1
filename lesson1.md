@@ -157,3 +157,4 @@ To form a language name, use:
 - Subject particles (은/는) are essential for clarity and politeness.
 
 ---
+[➡️ Go to Practice for Lesson ](lesson1_practice.md)

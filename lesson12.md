@@ -123,3 +123,4 @@
 - Popular hobbies in Korea include 등산 (hiking), 요리 (cooking), and 사진 찍기 (photography).
 
 ---
+[➡️ Go to Practice for Lesson ](lesson12_practice.md)

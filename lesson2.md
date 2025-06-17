@@ -183,3 +183,4 @@ Place + 에 + Movement Verb (가다, 오다, 다니다)
 - The particle **에** is used to indicate direction or destination with movement verbs.
 
 ---
+[➡️ Go to Practice for Lesson ](lesson2_practice.md)

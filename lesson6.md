@@ -171,3 +171,4 @@ Used to express going/coming somewhere to do something.
 - The phrase **같이 밥 먹자** is a friendly way to invite someone to eat together.
 
 ---
+[➡️ Go to Practice for Lesson ](lesson6_practice.md)

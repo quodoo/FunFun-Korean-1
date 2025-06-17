@@ -148,3 +148,4 @@
 - The verb **있다** means “to exist” or “to be located,” and **없다** means “not exist” or “not be located.”
 
 ---
+[➡️ Go to Practice for Lesson](lesson5_practice.md)

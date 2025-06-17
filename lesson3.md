@@ -193,3 +193,4 @@
 - When shopping, numbers and counters are essential for expressing quantity clearly.
 
 ---
+[➡️ Go to Practice for Lesson ](lesson3_practice.md)

@@ -178,3 +178,4 @@ When a verb/adjective stem ends in ㅂ, it changes to 우 before a vowel.
 - The use of -지요 adds a polite and friendly tone to conversations.
 
 ---
+[➡️ Go to Practice for Lesson ](lesson8_practice.md)

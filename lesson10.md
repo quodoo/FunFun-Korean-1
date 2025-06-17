@@ -108,3 +108,4 @@
 - The expression **-아/어야 하다** is commonly used in daily life to express duties, rules, or advice.
 
 ---
+[➡️ Go to Practice for Lesson ](lesson10_practice.md)

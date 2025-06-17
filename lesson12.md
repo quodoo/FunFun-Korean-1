@@ -1,3 +1,5 @@
+[⬅️ Back to Main Page](README.md)
+
 ## FunFun Korean – Lesson 12: 취미 (Hobbies)
 
 ### 1. Learning Objectives
@@ -124,3 +126,4 @@
 
 ---
 [➡️ Go to Practice for Lesson ](lesson12_practice.md)
+[⬅️ Back to Main Page](README.md)

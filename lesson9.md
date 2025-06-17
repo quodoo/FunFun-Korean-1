@@ -1,3 +1,5 @@
+[⬅️ Back to Main Page](README.md)
+
 # FunFun Korean – Lesson 9: 주말 활동 (Weekend Activities)
 
 ---
@@ -158,3 +160,4 @@ Used to express trying or attempting to do something.
 
 ---
 [➡️ Go to Practice for Lesson ](lesson9_practice.md)
+[⬅️ Back to Main Page](README.md)

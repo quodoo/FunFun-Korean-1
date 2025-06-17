@@ -1,3 +1,5 @@
+[⬅️ Back to Main Page](README.md)
+
 ## 📘 FunFun Korean – Lesson 10: 교통 (Transportation)
 
 ### 1. Learning Objectives
@@ -109,3 +111,4 @@
 
 ---
 [➡️ Go to Practice for Lesson ](lesson10_practice.md)
+[⬅️ Back to Main Page](README.md)

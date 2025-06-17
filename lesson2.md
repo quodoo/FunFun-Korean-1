@@ -1,3 +1,5 @@
+[⬅️ Back to Main Page](README.md)
+
 # FunFun Korean – Lesson 2: 일상생활 (Daily Life)
 
 ---
@@ -184,3 +186,4 @@ Place + 에 + Movement Verb (가다, 오다, 다니다)
 
 ---
 [➡️ Go to Practice for Lesson ](lesson2_practice.md)
+[⬅️ Back to Main Page](README.md)

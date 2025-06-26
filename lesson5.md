@@ -30,6 +30,7 @@
 | 맞은편 | opposite |
 | 이쪽 | this side |
 | 저쪽 | that side |
+| 가운데 | center |
 
 #### B. Household Items (집안 물건)
 
@@ -54,6 +55,12 @@
 | 문 | door |
 | 필통 | pencil case |
 | 책상 | desk |
+| 텔레비전 | television |
+| 펜 | pen |
+| 연필 | pencil |
+| 달력 | calendar |
+| 공책 | notebook |
+| 안경 | glasses |
 
 #### C. Places (장소)
 
